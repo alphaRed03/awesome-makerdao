@@ -806,6 +806,7 @@ _Notice: The Voting Portal is undergoing an update._
 * [DEX.AG](https://dex.ag/)
 * [KyberSwap](https://kyberswap.com/swap)
 * [Liquality](https://liquality.io/)
+* [SecureShift](https://secureshift.io/)
 * [SimpleSwap](https://simpleswap.io/)
 * [Swap.online](https://swaponline.io/)
 * [Uniswap](https://uniswap.exchange/swap)
